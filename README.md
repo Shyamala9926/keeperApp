@@ -6,4 +6,4 @@ KeeperApp is a lightweight and intuitive note-taking and task management applica
 ## Features
 - **Note-Taking**: Create, edit, and delete notes effortlessly.
 - **Task Management**: Organize your to-do lists with ease.
--
+
