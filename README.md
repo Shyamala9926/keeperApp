@@ -11,7 +11,4 @@ KeeperApp is a lightweight and intuitive note-taking and task management applica
 - **User-Friendly Interface**: It is a user friendly Every one can use .
 
 - https://1drv.ms/i/c/7fe51ebf28068c6c/ETbiuJztzm1Aqh5_OV9yT28BueKJc52ifulbR92C0BfLcA?e=SFO92j
-https://1drv.ms/i/c/7fe51ebf28068c6c/ETbiuJztzm1Aqh5_OV9yT28BueKJc52ifulbR92C0BfLcA?e=SFO92j
-
-
 
